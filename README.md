@@ -1,2 +1,4 @@
 # styleflow
-An example to reproduce styleflow in tensorflow
+An example to illustrate how to reproduce styleflow in tensorflow.
+
+[styleflow](https://arxiv.org/abs/2008.02401)

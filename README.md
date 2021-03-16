@@ -4,5 +4,6 @@
 - tensorflow >= 2.3
 - tensorflow_probability >= 0.11
 
-[styleflow](https://arxiv.org/abs/2008.02401)
+Codes for StyleGAN2 : https://github.com/moono/stylegan2-tf-2.x
+
 
